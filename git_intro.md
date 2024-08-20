@@ -21,4 +21,4 @@ To ensure the reusability and understandability of our science, it is best that 
 4. Switch to that branch using `git checkout <branch name>`
 
 #### Standard workflow:
-1. 
+1. Before you begin your work, you must be sure that your changes do not interfere with the rest of the codebase. To do this, `git pull origin main`
