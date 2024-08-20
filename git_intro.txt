@@ -1,0 +1,4 @@
+To get these files onto your machine from GitHub:
+
+1. Make sure git is installed for your OS: https://git-scm.com/downloads
+2. 
