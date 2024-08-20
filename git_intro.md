@@ -1,6 +1,7 @@
 ## Getting Started with Git
 
->LV_radcal_pipeline git repository: https://github.com/z-vig/LV_radcal_pipeline
+>LV_radcal_pipeline git repository: https://github.com/z-vig/LV_radcal_pipeline.
+
 >To clone the repo: https://github.com/z-vig/LV_radcal_pipeline.git
 
 To ensure the reusability and understandability of our science, it is best that we work on making our calibrations into a matlab toolbox, rather than just a collection of loosely related scripts. Git is the state of the art when it comes to version control, and so it should always be used when working on any kind of code base with a team. Hopefully, the outlined steps below will allow us to create a cohesive pipeline that will last through the entire Lunar-VISE mission and beyond.
