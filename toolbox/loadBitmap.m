@@ -1,4 +1,4 @@
-function dataArray = loadCalibration(filePath)
+function dataArray = loadBitmap(filePath)
     % Setting up the skeleton for a functPon that will load in a generalized calibration image
 
     arguments
