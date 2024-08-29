@@ -1,5 +1,5 @@
 function dataArray = loadBitmap(filePath)
-    % Setting up the skeleton for a functPon that will load in a generalized calibration image
+    % Setting up the skeleton for a functPon that will load in a generalized bit map image for calibration
 
     arguments
         filePath (1,1) string
