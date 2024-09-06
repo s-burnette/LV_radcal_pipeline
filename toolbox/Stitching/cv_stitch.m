@@ -114,3 +114,4 @@ end
 
 figure
 imshow(panorama)
+imwrite(panorama, "stitched.bmp")
