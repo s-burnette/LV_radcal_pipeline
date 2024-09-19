@@ -1,0 +1,3 @@
+folder name is the remaining image %
+10 = 45% trimmed from bottom + 45% trimmed from top
+90 = 5% trimmed from each

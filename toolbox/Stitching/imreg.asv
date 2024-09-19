@@ -1,0 +1,15 @@
+fixed = './Stitch1.bmp'
+moving = './Stitch2.bmp'
+
+fixed_read = imread(fixed);
+moving_read = imread(moving);
+
+[optimizer, metric]  = imregconfig('monomodal')
+
+
+
+moving_reg = imregister(moving_read,fixed_read,"rigid", optimizer, metric)
+
+figure
+imshowpair(fixed_read, moving_reg,"Scaling","joint")
+
